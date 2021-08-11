@@ -1,6 +1,6 @@
 # Bankist-jonas-app
 
-- this is a project from Jonas Schmedtmann course
+- This is a project from Jonas Schmedtmann's js course
 - you can transfer money from your acc to some one by his user name 
 - you can request a loan 
 - you can delete your acc
